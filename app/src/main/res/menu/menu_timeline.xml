@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.codepath.apps.mysimpletweets.TimelineActivity"
+    android:icon="@drawable/twitter_round">
+    <item android:id="@+id/action_tweets"
+        android:title="Tweets"
+        android:icon="@drawable/twitter_witer_icon"
+        app:showAsAction="ifRoom">
+    </item>
+</menu>
